@@ -1,0 +1,5 @@
+com\me\transactionDemo\main\AnalyzeFinRecord.class
+com\me\transactionDemo\exceptions\TransactionException.class
+com\me\transactionDemo\sample\SampleData.class
+com\me\transactionDemo\dto\TransactionDTO.class
+com\me\transactionDemo\domain\TransactionType.class

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: meCode
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: rbyeredd
+Implementation-Vendor-Id: org.example
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/meCode
+Created-By: Maven Integration for Eclipse
+
